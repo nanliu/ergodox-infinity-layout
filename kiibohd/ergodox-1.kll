@@ -39,6 +39,7 @@ U"Y" : U"LBRACE";
 U"U" : U"RBRACE";
 U"I" : U"SHIFT" + U"LBRACE";
 U"O" : U"SHIFT" + U"RBRACE";
+U"P" : U"SHIFT" + U"QUOTE";
 U"H" : U"SHIFT" + U"COMMA";
 U"J" : U"SHIFT" + U"PERIOD";
 U"K" : U"SHIFT" + U"9";
